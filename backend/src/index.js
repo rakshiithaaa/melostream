@@ -29,7 +29,7 @@ app.use(
 	cors({
 		origin: [
 			"http://localhost:3000",
-			"https://YOUR-VERCEL-URL.vercel.app"
+			"https://melostream-ebon.vercel.app/"
 		],
 		credentials: true,
 	})
